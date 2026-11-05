@@ -1,7 +1,6 @@
 # UK TV - United Kingdom television live
 
 ## Enjoy watching your favorite television live programs with ultimate simplicity
-
 <p align="center">
   <img src="screenshots/7_portrait_1080x1920_01.png" width="160" style="margin: 5px;">
   <img src="screenshots/7_portrait_1080x1920_07.png" width="160" style="margin: 5px;">
